@@ -1,2 +1,3 @@
 def speak_to_grandma
-  if grandma == "I "
+  if grandma == "I LOVE YOU GRANDMA! "
+    puts
